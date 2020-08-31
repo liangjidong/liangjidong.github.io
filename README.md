@@ -1,3 +1,4 @@
+# 每一个你不满意的当下，都有一个你不曾努力的过去
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/liangjidong/liangjidong.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
